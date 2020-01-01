@@ -1,0 +1,41 @@
+h1{
+	background-color: rgb(232, 225, 255);
+	text-align: center
+}
+
+header{
+background-color: #CCCDE8;
+text-align: center
+}
+
+body{
+	background-color: #EDF2FF;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #586163
+}
+
+#map-div{
+	height: 100%;
+}
+
+#map-section{
+
+	position:absolute; 
+    margin:0;
+	height: 50%;
+	width:50%;
+	left:40%; 
+	background-color: #EDF2FF
+}
+
+#table-section{
+	right:70%;
+	position:absolute;
+	border-collapse: collapse #CCDBE8
+} 
+
+#table-section tr:first-child{
+	background-color: #CCCDE8
+}
+
+
